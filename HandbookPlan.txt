@@ -18,4 +18,9 @@ I will research Scrum and its role in agile project management.
 I will include the importance of user stories and their role in task estimation.
 And explore the popular task estimation techniques in Scrum, such as story points, hours, and planning poker.
 
+Dahab 
+Topic : Testing 
+I will explore the different types of testing like Unit Testing and Integration Testing.
+I will reserch different aspects of testing like Metrics and Reporting , Risk-Based Testing and Automation.
+
 
