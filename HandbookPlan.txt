@@ -1,0 +1,21 @@
+Software Quality Handbook Plan
+
+We had a teams meeting, and we decided to  divided the work up between us with a plan in place to complete the work by the deadline.
+
+As a group, we must research on each topic below:
+
+Task estimation in Scrum
+Code reviews
+Dev ops
+
+After discussing with the team, we choose  dev ops as our third topic to research for the assignment . Becuase we are a group of three , we chose to work on one topic each.
+
+Here is how we broke up the work
+
+Ifeoma 
+Topic : Task estimation in Scrum
+I will research Scrum and its role in agile project management. 
+I will include the importance of user stories and their role in task estimation.
+And explore the popular task estimation techniques in Scrum, such as story points, hours, and planning poker.
+
+
