@@ -22,5 +22,6 @@ Dahab
 Topic : Testing 
 I will explore the different types of testing like Unit Testing and Integration Testing.
 I will reserch different aspects of testing like Metrics and Reporting , Risk-Based Testing and Automation.
+Explore the benefits of testing with DevOps
 
 
