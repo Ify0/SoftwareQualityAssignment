@@ -1,0 +1,4 @@
+Welcome to our Handbook of Best Practices for Task Estimation in Scrum. 
+This guide is designed to equip both new and existing team members with essential knowledge and techniques for effectively estimating tasks within the Scrum framework. 
+By understanding the principles outlined in this handbook, you will contribute to the success of our projects by delivering value to our customers in a timely and efficient manner.
+
