@@ -24,7 +24,7 @@ By adhering to these fundamental principles, Scrum empowers teams to deliver val
 
 ![scrum](image-1.png)
 
-Importance of User Stories in Task Estimation:
+**Importance of User Stories in Task Estimation:**
 
 User stories serve as a cornerstone of effective task estimation within the Scrum framework. These concise descriptions of features, told from the perspective of end-users, provide a clear and tangible representation of customer needs and expectations. By capturing requirements in the form of user stories, teams can ensure that their focus remains solely on delivering value to the customer.
 
@@ -38,3 +38,22 @@ Key Aspects of User Stories:
 Overall, user stories play a critical role in ensuring that development efforts are focused on delivering tangible value to the customer, while also providing a framework for effective task estimation within the Scrum framework.
 
 ![userstory](image.png)
+
+**Popular Task Estimation Technique in Scrum:**
+
+Task estimation is a vital aspect of Sprint Planning in Scrum, enabling teams to forecast the amount of work they can commit to during a Sprint accurately. Several estimation techniques are commonly used within the Scrum framework, each with its own benefits and considerations.
+
+Imagine you're part of a team working on a project. This project involves completing different tasks, like writing code, designing features, or fixing bugs. Now, each of these tasks has its own level of complexity or difficulty. Some are easy, while others are more challenging.
+
+Planning poker is like a game the team plays to figure out how difficult each task is. Here's how it works:
+
+1. **Team Gathering**: The team sits together to discuss the tasks that need to be done. These tasks are often represented as "user stories," which are basically descriptions of what needs to be done from the perspective of the user.
+2. **Assigning Points**: Instead of just guessing how hard each task is, team members use "story points" to rate them. Story points are like units of measurement for task complexity. The higher the points, the more complex the task.
+3. **Discussion and Consensus**: Each team member privately chooses a number of story points they think represents the complexity of a task. Then, everyone reveals their choices at the same time. If there are big differences in estimates, team members discuss why they chose their numbers and try to reach a consensus.
+4. **Repeating the Process**: The team goes through this process for each task until they have estimates for all of them.
+
+The goal of planning poker is to make sure everyone on the team understands the work involved in each task and agrees on how long it will take to complete them. This helps with planning the project timeline and ensures everyone is on the same page about what needs to be done.
+
+By understanding Scrum principles, recognizing the importance of user stories, and employing popular estimation techniques, teams can enhance their ability to deliver value efficiently and effectively within the Scrum framework.
+
+![poker](image-2.png)
