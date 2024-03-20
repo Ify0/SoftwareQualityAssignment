@@ -23,3 +23,18 @@ Key Principles of Scrum:
 By adhering to these fundamental principles, Scrum empowers teams to deliver value early and often, while also fostering a culture of continuous improvement and learning.
 
 ![scrum](image-1.png)
+
+Importance of User Stories in Task Estimation:
+
+User stories serve as a cornerstone of effective task estimation within the Scrum framework. These concise descriptions of features, told from the perspective of end-users, provide a clear and tangible representation of customer needs and expectations. By capturing requirements in the form of user stories, teams can ensure that their focus remains solely on delivering value to the customer.
+
+Key Aspects of User Stories:
+
+1. **Capturing Requirements**: User stories encapsulate specific features or functionalities that address user needs. By articulating requirements in a user-centric manner, teams gain a deeper understanding of the problem domain and can tailor their solutions accordingly.
+2. **Facilitating Collaboration**: User stories promote collaboration between stakeholders and development teams. By involving stakeholders in the creation and refinement of user stories, teams ensure that their efforts are aligned with customer expectations and business objectives.
+3. **Enabling Prioritization**: User stories provide a basis for prioritizing work items within the product backlog. By assigning relative importance to each user story, teams can make informed decisions about which features to focus on during Sprint Planning.
+4. **Enhancing Estimation**: User stories serve as the basis for task estimation in Scrum. By breaking down features into smaller, more manageable units of work, teams can estimate the effort required to implement each user story with greater accuracy.
+
+Overall, user stories play a critical role in ensuring that development efforts are focused on delivering tangible value to the customer, while also providing a framework for effective task estimation within the Scrum framework.
+
+![userstory](image.png)
