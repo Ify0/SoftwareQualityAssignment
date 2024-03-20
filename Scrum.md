@@ -17,7 +17,7 @@ Key Principles of Scrum:
 3. **Responding to Change**: Scrum recognizes that requirements and priorities may change over time.
    Therefore, the framework encourages flexibility and adaptability, enabling teams to respond quickly to new information and emerging challenges.
 4. **Adaptive Planning**:
-   Rather than adhering to rigid, upfront planning, Scrum embraces adaptive planning techniques.
+   Rather than focusing to rigid, upfront planning, Scrum adaptes planning techniques.
    Teams plan for each Sprint based on current priorities and available information, allowing for adjustments as needed to optimize project outcomes.
 
 By adhering to these fundamental principles, Scrum empowers teams to deliver value early and often, while also fostering a culture of continuous improvement and learning.
@@ -30,9 +30,9 @@ User stories serve as a cornerstone of effective task estimation within the Scru
 
 Key Aspects of User Stories:
 
-1. **Capturing Requirements**: User stories encapsulate specific features or functionalities that address user needs. By articulating requirements in a user-centric manner, teams gain a deeper understanding of the problem domain and can tailor their solutions accordingly.
-2. **Facilitating Collaboration**: User stories promote collaboration between stakeholders and development teams. By involving stakeholders in the creation and refinement of user stories, teams ensure that their efforts are aligned with customer expectations and business objectives.
-3. **Enabling Prioritization**: User stories provide a basis for prioritizing work items within the product backlog. By assigning relative importance to each user story, teams can make informed decisions about which features to focus on during Sprint Planning.
+1. **Capturing Requirements**: User stories have specific functionalities that address the users needs. By articulating requirements in a user-centric manner, teams gain a deeper understanding of the problem domain and can tailor their solutions accordingly.
+2. **Facilitating Collaboration**: User stories promote collaboration between stakeholders and development teams. By involving stakeholders in the creation and editing of user stories, teams ensure that their efforts are aligned with customer expectations and business objectives.
+3. **Enabling Prioritization**: User stories provide a basis for prioritising work items within the product backlog. By assigning which is more important to each user story, teams can make informed decisions about which features to focus on during Sprint Planning.
 4. **Enhancing Estimation**: User stories serve as the basis for task estimation in Scrum. By breaking down features into smaller, more manageable units of work, teams can estimate the effort required to implement each user story with greater accuracy.
 
 Overall, user stories play a critical role in ensuring that development efforts are focused on delivering tangible value to the customer, while also providing a framework for effective task estimation within the Scrum framework.
@@ -41,19 +41,28 @@ Overall, user stories play a critical role in ensuring that development efforts 
 
 **Popular Task Estimation Technique in Scrum:**
 
-Task estimation is a vital aspect of Sprint Planning in Scrum, enabling teams to forecast the amount of work they can commit to during a Sprint accurately. Several estimation techniques are commonly used within the Scrum framework, each with its own benefits and considerations.
+Task estimation is a vital aspect of Sprint Planning in Scrum, enabling teams to forecast the amount of work they can commit to during a Sprint accurately. Several estimation techniques are commonly used within the Scrum framework, each with its own benefits and considerations. Planning poker is one of the popluar techniques used.
 
-Imagine you're part of a team working on a project. This project involves completing different tasks, like writing code, designing features, or fixing bugs. Now, each of these tasks has its own level of complexity or difficulty. Some are easy, while others are more challenging.
+If you are part of a team. This project involves completing different tasks such as like writing code, designing features, or fixing bugs. Each of these tasks has its own level of difficulty. Some are easy, and others are more complex.
 
-Planning poker is like a game the team plays to figure out how difficult each task is. Here's how it works:
+Planning poker is like a game each memeber figures out how difficult each task is. These are the steps below:
 
-1. **Team Gathering**: The team sits together to discuss the tasks that need to be done. These tasks are often represented as "user stories," which are basically descriptions of what needs to be done from the perspective of the user.
+1. **Team Gathering**: The team sits together to discuss the tasks that need to be done. These tasks are represented as "user stories" .
 2. **Assigning Points**: Instead of just guessing how hard each task is, team members use "story points" to rate them. Story points are like units of measurement for task complexity. The higher the points, the more complex the task.
 3. **Discussion and Consensus**: Each team member privately chooses a number of story points they think represents the complexity of a task. Then, everyone reveals their choices at the same time. If there are big differences in estimates, team members discuss why they chose their numbers and try to reach a consensus.
 4. **Repeating the Process**: The team goes through this process for each task until they have estimates for all of them.
 
 The goal of planning poker is to make sure everyone on the team understands the work involved in each task and agrees on how long it will take to complete them. This helps with planning the project timeline and ensures everyone is on the same page about what needs to be done.
 
-By understanding Scrum principles, recognizing the importance of user stories, and employing popular estimation techniques, teams can enhance their ability to deliver value efficiently and effectively within the Scrum framework.
+By understanding Scrum principles, recognising the importance of user stories, and employing popular estimation techniques, teams can enhance their ability to deliver value efficiently and effectively within the Scrum framework.
 
 ![poker](image-2.png)
+
+References :
+
+- Schwaber, K., & Sutherland, J. (2017). The Scrum Guide. Scrum.org.
+- Highsmith, J. (2001). Agile Software Development Ecosystems. Addison-Wesley Professional.
+- Cohn, M. (2004). User Stories Applied: For Agile Software Development. Addison-Wesley Professional.
+- Patton, J. (2014). User Story Mapping: Discover the Whole Story, Build the Right Product. O'Reilly Media
+  https://www.simplilearn.com/what-is-planning-poker-article
+  https://www.productplan.com/glossary/planning-poker/
