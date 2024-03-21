@@ -7,6 +7,7 @@ Table of contents:
 4. DevOps tools and technologies 
 5. Building a DevOps culture
 6. Security in DevOps
+7. Challenges in DevOps
 
 
 Introduction to DevOps:
@@ -29,6 +30,26 @@ Infrastructure as Code (IaC): Manage infrastructure through code to enable repea
 Monitoring and Feedback: Monitor applications and infrastructure in real-time to gather feedback and improve performance.
 
 Culture of Learning: Encourage a culture of learning, experimentation, and continuous improvement.
+
+Key Concepts in DevOps:
+
+Version Control: Utilize version control systems like Git to manage and track changes to code and configurations.
+
+Microservices Architecture: Design applications as a collection of loosely coupled services that can be developed,
+ deployed, and scaled independently.
+
+Containers: Use containerization technology like Docker to package and deploy applications 
+and dependencies consistently across different environments.
+
+Orchestration: Employ orchestration tools such as Kubernetes to automate the deployment, scaling, 
+and management of containerized applications.
+
+Infrastructure Automation: Automate infrastructure provisioning, configuration, 
+and management using tools like Terraform or Ansible.
+
+DevOps Tools and Technologies:
+
+
 
 
 
