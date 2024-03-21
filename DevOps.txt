@@ -71,6 +71,12 @@ Implement access controls and least privilege principles.
 Automate security checks in the CI/CD pipeline.
 Stay informed about security best practices and emerging threats.
 
+Real-Life Challenges in DevOps:
+
+Despite the numerous benefits of DevOps, organizations may encounter various challenges during its implementation.
+Some common real-life challenges include:
+
+
 
 
 
