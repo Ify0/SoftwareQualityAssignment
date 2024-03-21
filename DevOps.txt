@@ -17,7 +17,18 @@ aiming to deliver top-notch software swiftly.
 
 Principles of DevOps:
 
+Collaboration: Foster collaboration between development, operations, and other stakeholders
+ involved in the software development lifecycle.
 
+Automation: Automate repetitive tasks to increase efficiency and reduce errors.
+Continuous Integration and Deployment: Continuously integrate code changes into a shared repository 
+and deploy them automatically to production environments.
+
+Infrastructure as Code (IaC): Manage infrastructure through code to enable repeatability, scalability, and consistency.
+
+Monitoring and Feedback: Monitor applications and infrastructure in real-time to gather feedback and improve performance.
+
+Culture of Learning: Encourage a culture of learning, experimentation, and continuous improvement.
 
 
 
