@@ -1,7 +1,23 @@
 DevOps Handbook: A Guide to Modern Software Development
 
-Introduction:
+Table of contents:
+1. Introduction to DevOps
+2. Principles of DevOps
+3. Key concepts in DevOps
+4. DevOps tools and technologies 
+5. Building a DevOps culture
+6. Security in DevOps
+
+
+Introduction to DevOps:
+
 Welcome to the "DevOps Handbook," a guide crafted to assist professionals in modern software development.
-In today's fast-paced tech world, merging development and operations is vital for organizations aiming
- to deliver top-notch software swiftly.
+In today's fast-paced tech world, merging development and operations is vital for organizations 
+aiming to deliver top-notch software swiftly.
+
+Principles of DevOps:
+
+
+
+
 
