@@ -76,6 +76,20 @@ Real-Life Challenges in DevOps:
 Despite the numerous benefits of DevOps, organizations may encounter various challenges during its implementation.
 Some common real-life challenges include:
 
+Time wasting: 
+During DevOps the ownership of the codebase changes from one team to another; from development to testing,
+to deployment and production. During such transitions there is a general waste of time and effort as the environments used
+by these teams are separately configured and the codebase must be modified to work smoothly on all these environments.
+
+Challenges with Monitoring the DevOps process: 
+One of the most common problems with DevOps is the challenge in holistically monitoring the entire process. DevOps consists
+of several moving parts and each of these have different metrics to judge their effectiveness. 
+For example a metric like number of code branches or deployment frequency might deal with the 
+CI/CD process; whereas something like Defect Escape Rate is a part of the Continuous Testing pipeline. 
+
+
+
+
 
 
 
