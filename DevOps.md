@@ -101,8 +101,11 @@ and innovation in their software delivery process.
  References:
 
  BrowserStack By Sourojit Das, Community Contributor - January 25, 2023
+
  Altassian TOM HALL DevOps Advocate & Practitioner
+
  Altassian KRISHNA SAI Head of Engineering, IT Solutions
+ 
  TechRepublic Enrique Corrales - July 2023
 
 
