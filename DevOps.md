@@ -1,6 +1,6 @@
-DevOps Handbook: A Guide to Modern Software Development
+**DevOps Handbook:** A Guide to Modern Software Development
 
-Table of contents:
+**Table of contents:**
 1. Introduction to DevOps
 2. Principles of DevOps
 3. Key concepts in DevOps
@@ -10,13 +10,13 @@ Table of contents:
 7. Challenges in DevOps
 
 
-Introduction to DevOps:
+**Introduction to DevOps:**
 
 Welcome to the "DevOps Handbook," a guide crafted to assist professionals in modern software development.
 In today's fast-paced tech world, merging development and operations is vital for organizations 
 aiming to deliver top-notch software swiftly.
 
-Principles of DevOps:
+**Principles of DevOps:**
 
 Collaboration: Foster collaboration between development, operations, and other stakeholders
  involved in the software development lifecycle.
@@ -31,12 +31,12 @@ Monitoring and Feedback: Monitor applications and infrastructure in real-time to
 
 Culture of Learning: Encourage a culture of learning, experimentation, and continuous improvement.
 
-Key Concepts in DevOps:
+**Key Concepts in DevOps:**
 
 Version Control: Utilize version control systems like Git to manage and track changes to code and configurations.
 
 Microservices Architecture: Design applications as a collection of loosely coupled services that can be developed,
- deployed, and scaled independently.
+deployed, and scaled independently.
 
 Containers: Use containerization technology like Docker to package and deploy applications 
 and dependencies consistently across different environments.
@@ -47,7 +47,7 @@ and management of containerized applications.
 Infrastructure Automation: Automate infrastructure provisioning, configuration, 
 and management using tools like Terraform or Ansible.
 
-DevOps Tools and Technologies:
+**DevOps Tools and Technologies:**
 
 CI/CD Tools: Jenkins, GitLab CI/CD, Travis CI
 Configuration Management: Ansible, Chef, Puppet
@@ -55,7 +55,7 @@ Containerization Platforms: Docker, Kubernetes
 Infrastructure Provisioning: Terraform, AWS CloudFormation
 Monitoring and Logging: Prometheus, ELK Stack (Elasticsearch, Logstash, Kibana)
 
-Building a DevOps culture: 
+**Building a DevOps culture:**
 
 Encourage collaboration and communication between teams.
 Foster a blame-free culture that encourages learning from failures.
@@ -63,7 +63,7 @@ Implement cross-functional teams to break down silos.
 Provide training and resources to support continuous learning and skill development.
 Recognize and reward contributions to the DevOps culture.
 
-How to maintain security in DevOps:
+**How to maintain security in DevOps:**
 
 Embed security practices into the development process.
 Conduct regular security audits and vulnerability assessments.
@@ -71,11 +71,11 @@ Implement access controls and least privilege principles.
 Automate security checks in the CI/CD pipeline.
 Stay informed about security best practices and emerging threats.
 
-DevOps Lifecycle:
+**DevOps Lifecycle:**
 ![alt text](DevOps-Lifecycle.png)
 
 
-Real-Life Challenges in DevOps:
+**Real-Life Challenges in DevOps:**
 
 Despite the numerous benefits of DevOps, organizations may encounter various challenges during its implementation.
 Some common real-life challenges include:
@@ -105,7 +105,7 @@ and innovation in their software delivery process.
  Altassian TOM HALL DevOps Advocate & Practitioner
 
  Altassian KRISHNA SAI Head of Engineering, IT Solutions
- 
+
  TechRepublic Enrique Corrales - July 2023
 
 
