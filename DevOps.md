@@ -50,9 +50,13 @@ and management using tools like Terraform or Ansible.
 **DevOps Tools and Technologies:**
 
 CI/CD Tools: Jenkins, GitLab CI/CD, Travis CI
+
 Configuration Management: Ansible, Chef, Puppet
+
 Containerization Platforms: Docker, Kubernetes
+
 Infrastructure Provisioning: Terraform, AWS CloudFormation
+
 Monitoring and Logging: Prometheus, ELK Stack (Elasticsearch, Logstash, Kibana)
 
 **Building a DevOps culture:**
