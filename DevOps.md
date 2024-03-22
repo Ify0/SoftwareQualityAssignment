@@ -62,17 +62,25 @@ Monitoring and Logging: Prometheus, ELK Stack (Elasticsearch, Logstash, Kibana)
 **Building a DevOps culture:**
 
 Encourage collaboration and communication between teams.
+
 Foster a blame-free culture that encourages learning from failures.
+
 Implement cross-functional teams to break down silos.
+
 Provide training and resources to support continuous learning and skill development.
+
 Recognize and reward contributions to the DevOps culture.
 
 **How to maintain security in DevOps:**
 
 Embed security practices into the development process.
+
 Conduct regular security audits and vulnerability assessments.
+
 Implement access controls and least privilege principles.
+
 Automate security checks in the CI/CD pipeline.
+
 Stay informed about security best practices and emerging threats.
 
 **DevOps Lifecycle:**
