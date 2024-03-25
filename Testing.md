@@ -72,3 +72,7 @@ Ministry of Testing. (n.d.). Guide to integration testing. https://club.ministry
 
 Sauce Labs. (2021, September 22). Integration testing best practices. https://saucelabs.com/resources/blog/test-automation-best-practices
 
+Capgemini. (2017, July).  Let's Move Risk-Based Testing into the Business.
+https://www.capgemini.com/wp-content/uploads/2017/07/lets_move_risk-based_testing_into_the_business.pdf
+
+Software Testing Help. (2017, April 7). Types of Software Testing: Different Testing Types with Details. Softwaretestinghelp.com. https://www.softwaretestinghelp.com/types-of-software-testing/
