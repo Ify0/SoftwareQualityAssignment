@@ -61,3 +61,12 @@ issue resolution. As a result teamwork is strengthened.
 Autonomy testing which leads to reliable products, quick release of high-quality 
 software products, and fewer customer complaints, the overall customer satisfaction 
 and product quality are improved.
+
+
+**References :**
+Atlassian. (2023, March 23). Jira software automation: Basics & common use cases. https://www.atlassian.com/software/jira/guides/automation/overview
+
+Ministry of Testing. (n.d.). Guide to integration testing. https://club.ministryoftesting.com/t/what-is-an-integration-testing-and-who-does-it/52290
+
+Sauce Labs. (2021, September 22). Integration testing best practices. https://saucelabs.com/resources/blog/test-automation-best-practices
+
