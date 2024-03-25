@@ -1,4 +1,10 @@
-Types of Testing =
+**This is the introduction part for Testing.**
+This guide is tailored to create brand new team members as well as the experienced members possess knowledge of methods in the Testing.Therefore, as a result from adopting these norms we will improve the level of services for people, but nevertheless will have the projects for customers by the agreed time schedule. And, following expectation of clients, our projects will be appreciated by the clients. 
+
+Testing of various software versions is done only when the quality of the software is exceptionally high. This posting focuses on testing deployment at every stage of the development lifecycle which is possible because of DevOps. There are various types of testing that we will discern and go in depth about the important factors that influence them such as risk-based testing and automation. We will also highlight the numerous benefits DevOps testing brings to developers, testers, and customers.
+
+**Types of Testing =**
+
 1- Unit Testing :
 Unit test is the process where each code i.e. modules or components
 are tested in isolation, so that there is no dependency on other code.
@@ -9,7 +15,8 @@ feedback about various components or modules of a system, and allows researchers
 to find out whether they operate together in compliance with intended rules.
 
 
-Different Aspects of testing =
+**Different Aspects of testing =**
+
 1- Metrics and Reporting:
 It may involve the balance sheet be financial indicators like the number of test 
 cases that are passed vs. failed, bugs detected, regular regeneration and re-test 
@@ -27,7 +34,8 @@ This helps developers to release the software in a faster and more consistent
 manner without much quality or reliability issues using consistent testing frameworks.
 
 
-Benefits of testing with DevOps :
+**Benefits of testing with DevOps :**
+
 1- Improved Efficiency and Speed-
 Automation testing in DevOps makes routine processes of testing more economical 
 and accelerated thus decreasing delivery cycle time and giving faster feedback 
