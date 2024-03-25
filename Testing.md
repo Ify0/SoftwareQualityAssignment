@@ -62,6 +62,8 @@ Autonomy testing which leads to reliable products, quick release of high-quality
 software products, and fewer customer complaints, the overall customer satisfaction 
 and product quality are improved.
 
+![TestingCycle](2.png)
+
 
 **References :**
 Atlassian. (2023, March 23). Jira software automation: Basics & common use cases. https://www.atlassian.com/software/jira/guides/automation/overview
